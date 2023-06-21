@@ -138,7 +138,7 @@ const NotificationsContainer = styled.div`
   flex-direction: column;
   background-color: ${props => props.theme.neutral.white};
   padding: 0 30px;
-  max-width: 750px;
+  max-width: 650px;
   border-radius: 15px;
   @media(max-width: 375px) {
     max-width: none;
