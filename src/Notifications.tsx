@@ -168,7 +168,7 @@ function Notifications() {
     { 
       read: false,
       user: { name: "Mark Webber", image: "/assets/images/avatar-mark-webber.webp"},
-      message: { body: "Mark Webber reacted to your recent post", actionTo:  "My first tournament today!"},
+      message: { body: "reacted to your recent post", actionTo:  "My first tournament today!"},
       timestamp: "1m ago",
     },
     {
